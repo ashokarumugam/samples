@@ -1,4 +1,3 @@
 # Samples
-=======
 
-sample repository
+A sample repository!
